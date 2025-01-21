@@ -1,16 +1,23 @@
 h1 {
     color: blue;
+    font-size: 45px;
 }
 h2 {
     color: red;
 }
 p {
-    color: rgb(30, 183, 210);
-    font-size: 25px;
+    color: black;
+    font-size: 20px;
 }
 ol {
-    font-size: 25px;
+    font-size: 20px;
 }
 table {
+    font-size: 20px;
+}
+button {
+    color: red;
+    font-weight: bolder;
+    font-style: italic;
     font-size: 25px;
 }
